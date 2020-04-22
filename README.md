@@ -22,6 +22,7 @@ with partial html files.  When you complete this project, you will be able to bu
 3.  Add a run configuration for "Gulp" and put in "serve" as an argument
 
 ![WebStorm Gulp Config](screenshots/gulp.png)
+![Browser Sync Config](screenshots/Browser.png)
 
 # Readings
 * [What is Bootstrap?](https://www.tutorialrepublic.com/twitter-bootstrap-tutorial/)
